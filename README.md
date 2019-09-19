@@ -1,5 +1,5 @@
 # Quantum-Computing-Library
-A quantum computing library for C++ currently in development
+<u>A quantum computing library for C++ currently in development<u>
 
 Current features include the CNOT gate, Hadamard gate, and entanglement.
 
